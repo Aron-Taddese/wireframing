@@ -78,3 +78,40 @@ An Airbnb Figma wireframe is typically a high-fidelity wireframe that closely re
 
 ### Purpose:
 The Airbnb Figma wireframe serves as a comprehensive guide for both designers and developers, ensuring that the final product aligns with user expectations and business goals. It allows for thorough testing and validation before moving to the development phase, significantly reducing the risk of costly changes later in the process.
+
+# Popular Wireframing Tools
+
+Wireframing tools are essential for creating prototypes and visualizing user interfaces. Here are some popular wireframing tools used by designers:
+
+## 1. Figma
+
+### Overview:
+Figma is a cloud-based design tool that facilitates collaborative design and prototyping. It allows multiple users to work on a project simultaneously, making it an excellent choice for teams.
+
+### Features:
+- **Real-Time Collaboration**: Multiple users can edit and comment on designs in real-time, enhancing teamwork and feedback.
+- **Vector Graphics**: Offers powerful vector editing capabilities for creating precise designs and layouts.
+- **Component System**: Allows users to create reusable components, making it easier to maintain consistency across designs.
+- **Prototyping**: Enables designers to create interactive prototypes that simulate user interactions, providing a better understanding of the user experience.
+- **Cross-Platform**: Being web-based, Figma can be accessed on any device with an internet connection, making it flexible and convenient.
+
+### Why It's Useful for Wireframing:
+Figma's collaborative features and ease of use make it particularly useful for wireframing. Designers can quickly sketch out ideas, gather feedback, and iterate on designs in real-time. Its robust prototyping capabilities also allow teams to visualize user flows and interactions, ensuring that the final product meets user needs effectively.
+
+## 2. Sketch
+
+Sketch is a vector graphics editor primarily used for user interface and web design, popular among macOS users.
+
+## 3. Adobe XD
+
+Adobe XD is part of the Adobe Creative Cloud suite and offers design and prototyping tools tailored for UX/UI designers.
+
+## 4. Axure RP
+
+Axure RP is a powerful tool for creating detailed wireframes and prototypes, known for its advanced functionality and interactivity.
+
+## 5. Balsamiq
+
+Balsamiq provides a low-fidelity wireframing tool that focuses on rapid prototyping and sketching, making it easy to brainstorm ideas.
+
+These wireframing tools cater to various design needs and preferences, allowing teams to choose the one that best fits their workflow.
